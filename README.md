@@ -5,7 +5,7 @@
 
 1.人人素材网资源密码接收机器人群 564175105，可以自动整理密码。您可以在群中按照格式‘上传示例.txt’发给群主消息，期待您的贡献！
 
-2.大家可以注册一个github的账号，申请加入组织renrenziyuan，从而提交代码
+2.大家可以注册一个github的账号，申请加入组织renrenziyuan，从而提交代码，项目网址https://github.com/renrenziyuan/www.rr-sc.com
 
 资源请求方式：
 
